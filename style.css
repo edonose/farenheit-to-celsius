@@ -1,0 +1,21 @@
+body {
+  width: 700px;
+  margin: auto;
+  text-align: center;
+  background-color: rgba(125, 255, 19, 0.349);
+  margin-top: 35px;
+  margin-bottom: 35px;
+  padding: 35px;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
+#space {
+  height: 50px;
+}
+html {
+  background-color: beige;
+}
